@@ -1,0 +1,5 @@
+main: cf.heavin.picklock.PickLock
+version: 1.0
+name: LockPick
+api-version: 1.16
+commands:
